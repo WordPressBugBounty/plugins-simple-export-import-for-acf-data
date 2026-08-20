@@ -1,10 +1,10 @@
 === Simple Export Import for ACF Data ===
 Contributors: opcodespace
 Tags: Export, Import, Page, Post, Custom Post Type
-Requires at least: 5.4.0
-Tested up to: 6.8.6
-Requires PHP: 7.0
-Stable tag: 1.4.4
+Requires at least: 6.4.0
+Tested up to: 7.1.0
+Requires PHP: 7.4
+Stable tag: 1.4.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -95,6 +95,9 @@ Yes, free plugin is supporting many fields including repeater, groups. Please se
 2. Import
 
 == Changelog ==
+= 1.4.5 (August 20, 2026) =
+* Compatibility: Tested with WordPress 7.1.0
+
 = 1.4.4 (November 13, 2025) =
 * Bug Fixed: Saving License Key issue
 * Compatibility: Tested with WordPress 6.8.6
